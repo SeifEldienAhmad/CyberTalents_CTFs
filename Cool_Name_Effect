@@ -1,0 +1,53 @@
+# Cool Name Effect ✨
+
+**Platform:** CyberTalents  
+**Category:** Web Exploitation  
+**Difficulty:** Easy  
+**CTF Type:** Jeopardy-style  
+**Status:** Solved  
+**Flag:** (Redacted for ethical reasons)
+
+---
+
+## 🌐 My Fourth CTF Challenge
+
+**"Cool Name Effect"** was the fourth challenge I tackled on CyberTalents. It centered around analyzing **JavaScript effects or events**, and understanding how certain parts of a webpage behave under specific interactions or triggers.
+
+This challenge was a great follow-up to previous ones — but this time, the key was **observing how elements react**, not just how they look.
+
+---
+
+## 🧠 What I Learned
+
+- How to trace JavaScript event handlers in web pages.
+- How visual effects or dynamic changes can reveal hidden content.
+- How to use **DevTools to inspect runtime behavior** of elements.
+- That subtle interactions (like hovering, clicking, or focusing) can sometimes expose flags or paths.
+
+---
+
+## 🛠️ Tools Used
+
+- **Browser DevTools** – to observe scripts, inspect element styles, and follow events.
+- **External IDE** – for better formatting and analysis of JavaScript code.
+- **Logical experimentation** – to trigger and analyze different effects manually.
+
+---
+
+## 📝 My Process (High-Level Overview)
+
+1. Opened the challenge and observed the visual layout carefully.
+2. Used **DevTools** to inspect elements and check attached event listeners.
+3. Reviewed the scripts controlling the interaction or animation effects.
+4. Triggered the related effect manually (e.g., hover, click, focus) to reveal a hidden element or flag.
+5. Followed the logic to retrieve the flag embedded in the dynamic behavior.
+
+---
+
+## 📌 Takeaway
+
+**"Cool Name Effect"** showed me how **interactivity in web pages can serve as a gate** — where only specific actions unlock information. It was a fun and smooth transition from static inspection to observing **live client-side behavior**.
+
+---
+
+> 💬 *This write-up is for educational purposes only. The challenge has been solved and shared in a way that respects CyberTalents’ rules and the CTF community.*
