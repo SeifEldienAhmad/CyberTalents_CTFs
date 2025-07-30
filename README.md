@@ -13,3 +13,5 @@ This repository contains my personal write-ups and solutions for Capture The Fla
 > I do not post any active challenge content to respect CyberTalents' rules and the CTF community's integrity.
 
 Feel free to explore and learn!
+---
+> <sub><i>Keywords: Seif Eldien, Seif Ahmad, Seif Mohammed, سيف الدين, Cybersecurity, Linux, Red Team, Red Teamer, Ethical Hacking, Offensive Security, Information Security, Penetration Testing, Bug Bounty, Seif Eldien Ahmad Mohammad, Seif Portfolio, GitHub Portfolio, Linux Scripts, Parrot OS, Bash Tools, Cyber Defense, Digital Forensics, Linux Administration, Open Source, InfoSec, Cyber Student, Seif OSINT</i></sub>
